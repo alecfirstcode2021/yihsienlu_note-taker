@@ -1,8 +1,24 @@
-# Note-Taker ![badge](https://img.shields.io/badge/license-MIT-brightpink)
+# Note-Taker
 
 
  A simple Note Taker app that allows users to "Create", "Review" and "Delete" notes. This application uses an express package to connect user's browser.
- [Note Taker Splash Screen]( "note-taker Splash Screen")
+
+ ---
+
+![Note Taker Splash Screen](./images/Splash_Page.png "note-taker Splash Screen")
+Splash Page
+
+---
+
+![Note Taker Note Creation](./images/Note_Creating.png "note-taker Note Creation")
+Note Creation
+
+---
+
+![Note Taker Note Display](./images/Note_Display.png "note-taker Note Display")
+Note Display
+
+--- 
 
 ## Table of Contents
 - [Description](#description)
@@ -26,9 +42,6 @@ This application is covered by the MIT license.
 
 ## Contributing
  
-
-## Tests
-✏ 
 
 ## Questions
 Contact me if have any issues.<br />
