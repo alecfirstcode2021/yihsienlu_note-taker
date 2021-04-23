@@ -2,23 +2,7 @@
 
 
  A simple Note Taker app that allows users to "Create", "Review" and "Delete" notes. This application uses an express package to connect user's browser.
-
- ---
-
-![Note Taker Splash Screen](./images/Splash_Page.png "note-taker Splash Screen")
-Splash Page
-
----
-
-![Note Taker Note Creation](./images/Note_Creating.png "note-taker Note Creation")
-Note Creation
-
----
-
-![Note Taker Note Display](./images/Note_Display.png "note-taker Note Display")
-Note Display
-
---- 
+ 
 
 ## Table of Contents
 - [Description](#description)
