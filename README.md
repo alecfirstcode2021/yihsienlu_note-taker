@@ -6,7 +6,7 @@
  ## Link to Deployed Application (https://around-ocean.herokuapp.com//)
  * [GitHub Repository]  (https://github.com/alecfirstcode2021/yihsienlu_note-taker/)
 
- * ![image] (https://github.com/alecfirstcode2021/yihsienlu_note-taker/blob/master/images/Splash-Page.png)
+ ![image] (https://github.com/alecfirstcode2021/yihsienlu_note-taker/blob/master/images/Splash-Page.png)
 
 
 
