@@ -8,7 +8,15 @@
 
  --------------------------------
 
- ![image](https://github.com/alecfirstcode2021/yihsienlu_note-taker/blob/master/images/Splash-Page.png)
+ ![Note-Taker Splash Page](https://github.com/alecfirstcode2021/yihsienlu_note-taker/blob/master/images/Splash-Page.png)
+
+  --------------------------------
+
+ ![Note-Taker Creating](https://github.com/alecfirstcode2021/yihsienlu_note-taker/blob/master/images/Note-Creating.png)
+
+  --------------------------------
+
+ ![Note-Taker note review](https://github.com/alecfirstcode2021/yihsienlu_note-taker/blob/master/images/Note-Display.png)
 
 
 
